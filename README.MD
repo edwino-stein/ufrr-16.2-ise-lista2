@@ -2,6 +2,6 @@
 
  * Aluno: Edwino Alberto Lopes Stein;
  * Matrícula: 1201324411;
- * Professo: Herbet Oliveira Rocha;
+ * Professor: Herbet Oliveira Rocha;
  * Instituição: Universidade Federal de Roraima;
 
